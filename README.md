@@ -1,2 +1,11 @@
-# Glowing-Tab-Navigation
-Glowing Tab Navigation UI built using HTML, CSS, and JavaScript. This project features a modern animated navigation bar with glowing effects, smooth transitions, and interactive tab switching—perfect for enhancing UI/UX in web applications.
+🌟 Glowing Tab Navigation
+
+A modern and stylish Glowing Tab Navigation UI built with HTML, CSS, and JavaScript. This project showcases smooth animations, glowing effects, and interactive tab switching to improve user experience.
+
+🚀 Features
+
+✨ Glowing active tab effect
+🎯 Smooth animations & transitions
+📱 Responsive design
+🧠 Easy to understand code (Beginner friendly)
+⚡ Lightweight & fast
